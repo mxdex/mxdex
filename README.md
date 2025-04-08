@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Surya and I just started my journey with C#. I am trying to learn in an organized and professional manner. Look forward to leveling up and sharing anything that resonates with me and hopefully y'all. 
+
+
 <!--
 **mxdex/mxdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
